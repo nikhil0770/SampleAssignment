@@ -1,0 +1,60 @@
+{
+  "EventsList": [
+    {
+      "EventName": "Global30 Under30",
+      "StartDate": "05-12-2022",
+      "EndDate": "05-15-2022",
+      "EventType": "Professional",
+      "Tags": ["outdoors"],
+      "Region": "Bengaluru"
+    },
+    {
+      "EventName": "Comedy Nights",
+      "StartDate": "06-02-2022",
+      "EndDate": "06-02-2022",
+      "EventType": "Entertainment",
+      "Tags": ["indoors", "night life", "18+ only"],
+      "Region": "Delhi"
+    },
+    {
+      "EventName": "Khelo Bharat",
+      "StartDate": "04-08-2022",
+      "EndDate": "04-28-2022",
+      "EventType": "Sports",
+      "Tags": ["has entry fee"],
+      "Region": "Bengaluru"
+    },
+    {
+      "EventName": "JSFoo",
+      "StartDate": "06-02-2022",
+      "EndDate": "06-03-2022",
+      "EventType": "Professional",
+      "Tags": ["technology"],
+      "Region": "BBSR"
+    },
+    {
+      "EventName": "PyConf",
+      "StartDate": "08-24-2022",
+      "EndDate": "08-26-2022",
+      "EventType": "Professional",
+      "Tags": ["technology"],
+      "Region": "Pune"
+    },
+    {
+      "EventName": "SAARC",
+      "StartDate": "07-18-2022",
+      "EndDate": "07-22-2022",
+      "EventType": "Political",
+      "Tags": ["english only"],
+      "Region": "Mumbai"
+    },
+    {
+      "EventName": "Healathon",
+      "StartDate": "05-12-2022",
+      "EndDate": "05-14-2022",
+      "EventType": "Spiritual",
+      "Tags": ["bring your own food"],
+      "Region": "Pune"
+    }
+  ]
+}
